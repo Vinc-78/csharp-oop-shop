@@ -87,7 +87,7 @@ namespace csharp_oop_shop
             return codiceNome;
            
         }
-
+        //Metodo Bonus
         public void codicePad()
         {
             int delta = 9 - this.codice.Length;
